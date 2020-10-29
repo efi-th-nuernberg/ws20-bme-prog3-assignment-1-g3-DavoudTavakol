@@ -1,7 +1,6 @@
-class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello Davoud!");
+class Zahlenfilter {
 
+  public static void main(String[] args) {
     int number = 200;
     printNumberTo(number);
   }
